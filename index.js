@@ -11,6 +11,47 @@ const questions = [
         message: "What is the title of your project?",
         name: "title",
     }
+{
+    type: "input",
+    message: "Enter your project description" ,
+    name: "description",
+ }
+ {
+    type: "input",
+    message: "" ,
+    name: "usage",
+ }
+ {
+    type: "list",
+    message: "" ,
+    name: "license",
+ }
+ {
+    type: "input",
+    message: "" ,
+    name: "contributing",
+ }
+ {
+    type: "input",
+    message: "" ,
+    name: "instructions",
+ }
+ {
+    type: "input",
+    message: "" ,
+    name: "questions",
+ }
+ {
+    type: "input",
+    message: "" ,
+    name: "screenshot",
+ }
+ {
+    type: "input",
+    message: "" ,
+    name: "resources",
+ }
+ 
 ];
 
 // TODO: Create a function to write README file
