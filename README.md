@@ -1,4 +1,32 @@
-# 09-read-me-generator
-git@github.com:Karijayyy/09-read-me-generator.gi
+# kari
 
-## Deployed link to video walk-through 
+  ## Description
+  read me
+
+  ## Table of Contents
+  everything
+  
+  ## Installation
+ undefined
+
+  ## Usage
+  everything
+
+  ## License
+NONE
+
+  ## Contributing
+tyler
+
+  ## Test Instructions
+  none
+
+  ## Questions
+no
+
+  ## Screenshot
+  aksdnfklasd
+
+  ## Resources
+  asldnf
+  
